@@ -53,7 +53,7 @@ cd matlab-matrix-operations
 ```
 
 ## Created By - Akshat Sharma 
-## <a href="https://www.linkedin.com/in/akshat-sharma-7914a7250/"> 🔗 LinkedIn </a>
+## Link:  <a href="https://www.linkedin.com/in/akshat-sharma-7914a7250/"> 🔗 LinkedIn </a>
 ## Mail:  🔗 mems220005007@iiti.ac.in
 # ⚙️ How to Run
 **Clone the repository:**
