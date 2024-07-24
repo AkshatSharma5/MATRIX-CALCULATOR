@@ -45,8 +45,8 @@ B = [7, 8, 9; 10, 11, 12];
 C = colwise_division(A, B);  
 disp(C);
 ```
-
-## To Clone this repo:
+## ⚙️ How to Run
+**Clone the repository:**
 ```
 git clone https://github.com/your-username/matlab-matrix-operations.git
 cd matlab-matrix-operations
@@ -55,7 +55,6 @@ cd matlab-matrix-operations
 ## Created By - Akshat Sharma 
 ## Link:  <a href="https://www.linkedin.com/in/akshat-sharma-7914a7250/"> 🔗 LinkedIn </a>
 ## Mail:  🔗 mems220005007@iiti.ac.in
-# ⚙️ How to Run
-**Clone the repository:**
+
 
 
