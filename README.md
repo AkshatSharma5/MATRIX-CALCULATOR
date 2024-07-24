@@ -1,5 +1,5 @@
 # MATLAB Matrix Operations 📊
-This project consists of MATLAB codes for performing basic matrix operations, including addition, subtraction, multiplication, and column-wise division, which makes it a basic Matrxi Calculator.
+This project consists of MATLAB codes for performing basic matrix operations, including addition, subtraction, multiplication, and column-wise division, which makes it a basic Matrix Calculator.
 
 # 📂 Files and Usage
 ## 1. Matrix Addition ➕
