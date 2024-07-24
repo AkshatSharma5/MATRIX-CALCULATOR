@@ -1,5 +1,5 @@
 # MATLAB Matrix Operations 📊
-This repository contains MATLAB scripts for performing basic matrix operations, including addition, subtraction, multiplication, and column-wise division.
+This project consists of MATLAB codes for performing basic matrix operations, including addition, subtraction, multiplication, and column-wise division, which makes it a basic Matrxi Calculator.
 
 # 📂 Files and Usage
 ## 1. Matrix Addition ➕
@@ -46,6 +46,9 @@ C = colwise_division(A, B);
 disp(C);
 ```
 
+## Created By - Akshat Sharma 
+## <a href="https://www.linkedin.com/in/akshat-sharma-7914a7250/"> 🔗 LinkedIn </a>
+## Mail:  🔗 mems220005007@iiti.ac.in
 # ⚙️ How to Run
 **Clone the repository:**
 
