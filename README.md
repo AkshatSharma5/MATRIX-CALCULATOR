@@ -8,9 +8,9 @@ File: matrix_addition.m
 This script performs matrix addition between two matrices A nd B.
 
 **Example Usage:**
-`A = [1, 2, 3; 4, 5, 6];  
-B = [7, 8, 9; 10, 11, 12];  
-C = matrix_addition(A, B);  
+`A = [1, 2, 3; 4, 5, 6]; <br>
+B = [7, 8, 9; 10, 11, 12];<br>
+C = matrix_addition(A, B); <br>
 disp(C);`
 
 ## 2. Matrix Subtraction ➖
