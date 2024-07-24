@@ -46,11 +46,16 @@ C = colwise_division(A, B);
 disp(C);
 ```
 
+## To Clone this repo:
+```
+git clone https://github.com/your-username/matlab-matrix-operations.git
+cd matlab-matrix-operations
+```
+
 ## Created By - Akshat Sharma 
 ## <a href="https://www.linkedin.com/in/akshat-sharma-7914a7250/"> 🔗 LinkedIn </a>
 ## Mail:  🔗 mems220005007@iiti.ac.in
 # ⚙️ How to Run
 **Clone the repository:**
 
-`git clone https://github.com/your-username/matlab-matrix-operations.git  <br />
-cd matlab-matrix-operations`
+
