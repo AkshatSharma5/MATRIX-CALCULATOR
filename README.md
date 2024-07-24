@@ -1,8 +1,8 @@
 # MATLAB Matrix Operations 📊
 This project consists of MATLAB codes for performing basic matrix operations, including addition, subtraction, multiplication, and column-wise division, which makes it a basic Matrix Calculator.
 
-# 📂 Files and Usage
-## 1. Matrix Addition ➕
+# Documentation ✍️
+## 1. Matrix Addition 
 This script performs matrix addition between two matrices A nd B.
 
 **Example Usage:**
@@ -13,7 +13,7 @@ C = matrix_addition(A, B);
 disp(C);
 ```
 
-## 2. Matrix Subtraction ➖
+## 2. Matrix Subtraction 
 This script performs matrix subtraction between two matrices  A nd B.
 
 **Example Usage:**
@@ -24,7 +24,7 @@ C = matrix_subtraction(A, B);
 disp(C);
 ```
 
-## 3. Matrix Multiplication ✖️
+## 3. Matrix Multiplication 
 This script performs matrix multiplication between two matrices  A nd B.
 
 **Example Usage:**
@@ -35,7 +35,7 @@ C = matrix_multiplication(A, B);
 disp(C);
 ```
 
-## 4. Column-wise Division ➗
+## 4. Column-wise Division
 This script performs column-wise division of matrix  A nd B.
 
 **Example Usage:**
